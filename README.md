@@ -40,3 +40,6 @@ This project is a **solar-powered emergency light** that supports both **solar c
 - **Sustainable Solar-Based Lighting** for remote areas.  
 - **Portable Lighting Solution** for outdoor and camping use.  
 - **Power Bank** for charging **smartphones and tablets** on the go.
+
+## License  
+This project is licensed under the **MIT License**. 
